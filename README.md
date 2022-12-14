@@ -14,7 +14,7 @@ let pedroVaz = {
     { course: "Computer Engineering", degree: "Bachelor", institution: "Cefet-MG", status: "in progress" },
     { course: "Computer Networks", degree: "Technician", institution: "Cefet-MG", status: "completed" }
   ],
-  email: "vazConnected@gmail.com",
+  email: "vaz.connected@gmail.com",
   linkedIn: "https://www.linkedin.com/in/vazConnected/"
 };
 ```
