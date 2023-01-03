@@ -4,7 +4,7 @@
 ```javascript
 let pedroVaz = {
   nickname: "Vaz",
-  nationality: "Brazilian ",
+  nationality: "Brazilian",
   languages: [
     { language: "Portuguese", proficiency: "Native" },
     { language: "English", proficiency: "Advanced" },
