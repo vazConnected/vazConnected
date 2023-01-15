@@ -18,4 +18,4 @@ let pedroVaz = {
   linkedIn: "https://www.linkedin.com/in/vazConnected/"
 };
 ```
-Feel free to contact me via e-mail or LinkedIn! TTYL! 😄
+Feel free to contact me via e-mail or [LinkedIn](https://www.linkedin.com/in/vazConnected/)! TTYL! 😄
