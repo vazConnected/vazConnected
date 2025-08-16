@@ -16,7 +16,8 @@ let pedroVaz = {
    ],
    "email": "vaz.connected@gmail.com",
    "linkedIn": "https://www.linkedin.com/in/vazConnected/",
-   "youTube": "https://www.youtube.com/@vazConnected"
+   "youTube": "https://www.youtube.com/@vazConnected",
+   "webSite": "http://vazconnected.github.io/portifolio/"
 };
 ```
-Feel free to contact me via e-mail or [LinkedIn](https://www.linkedin.com/in/vazConnected/)! TTYL! 😄
+Check out my [landing page](http://vazconnected.github.io/portifolio/) and feel free to contact me via e-mail or [LinkedIn](https://www.linkedin.com/in/vazConnected/)! TTYL! 😄
