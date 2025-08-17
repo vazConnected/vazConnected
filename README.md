@@ -16,7 +16,6 @@ let pedroVaz = {
    ],
    "email": "vaz.connected@gmail.com",
    "linkedIn": "https://www.linkedin.com/in/vazConnected/",
-   "youTube": "https://www.youtube.com/@vazConnected",
    "webSite": "https://vazconnected.github.io/portifolio/"
 };
 ```
