@@ -11,8 +11,8 @@ let pedroVaz = {
       { "language": "Spanish", "proficiency": "Beginner" }
    ],
    "academicHistory":[
-      { "course": "Computer Engineering", "degree": "Bachelor", "institution": "Cefet-MG", "status": "in progress" },
-      { "course": "Computer Networks", "degree": "Technician", "institution": "Cefet-MG", "status": "completed" }
+      { "course": "Computer Engineering", "degree": "Bachelor", "institution": "Cefet-MG / UFCI-MG", "status": "in progress" },
+      { "course": "Computer Networks", "degree": "Technician", "institution": "Cefet-MG / UFCI-MG", "status": "completed" }
    ],
    "email": "vaz.connected@gmail.com",
    "linkedIn": "https://www.linkedin.com/in/vazConnected/",
